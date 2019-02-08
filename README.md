@@ -1,6 +1,10 @@
-# Practice repository for DWA
-First repository - v2
-<https://dwa15.com>
+# Project 1
++ By: *M Bret Blackford*
++ Production URL: <http://p1.yourdomain.com>
 
-<img src="/images/bret.jpg" alt="Bret and Michelle">
+## Outside resources
+*Noe*
+
+## Notes for instructor
+*None*
 
